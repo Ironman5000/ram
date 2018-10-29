@@ -1,0 +1,5 @@
+fystud=["amit","sumit","rajavi"]
+print(fystud)
+print(fystud[1:2])
+fystud.append("nitin")
+fystud.remove("sumit")
